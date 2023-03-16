@@ -3,6 +3,19 @@
 	border: 5px solid #666;
 }
 
+.header{
+	background-color: burlywood;
+	align: center;
+}
+
+.jumbotron table{
+	background-color: rgb(22, 190, 140);
+	border: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px;
+}
+
 .header table th{
 	padding-right: 10px;
 	padding-left: 10px;
